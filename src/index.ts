@@ -40,7 +40,7 @@ const content = `<!doctype html>
   </head>
   <body class="bg-gray-200 min-h-screen">
     <main class="container mx-auto px-4 py-12">
-      <div class="max-w-2xl mx-auto rounded-lg shadow-lg p-8 bg-gray-50">
+      <div class="max-w-2xl mx-auto rounded-lg shadow-lg py-8 px-2 bg-gray-50">
         <div class="text-center mb-8">
           <h1 class="text-4xl font-bold text-gray-800">
             Linkat is under maintenance
